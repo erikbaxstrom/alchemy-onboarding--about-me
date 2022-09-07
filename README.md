@@ -1,3 +1,3 @@
 # An About Me Page
 
-(wireframe.JPG)
+![wireframe](./wireframe.JPG)
